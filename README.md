@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jin-woo-lee
 - 👀 I’m interested in machine listening.
-- 🌱 I’m currently graduate student in Seoul Natinoal University.
+- 🌱 I’m currently graduate student in Seoul National University.
 - 📫 How to reach me: jinwlee@snu.ac.kr
 
 <!---
